@@ -6,7 +6,8 @@ As for why BIOS/MBR specifically, it is because VMM uses it by default, and I ha
 
 Essentially, the purpose of this guide is so you can tell yourself that you have installed Arch Linux once (assuming you haven't)
 
- > [!info] Sources Used
+ > [!NOTE] 
+ > **Sources Used**
  > **[EF - Linux Made Simple — Arch Linux Full install on BIOS/MBR with Xfce4 and visual guide](https://www.youtube.com/watch?v=FudOL0-B9Hs)**
  > **[Arch Linux Wiki — Installation Guide](https://wiki.archlinux.org/title/Installation_guide)**
  
