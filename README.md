@@ -6,6 +6,9 @@ As for why BIOS/MBR specifically, it is because VMM uses it by default, and I ha
 
 Essentially, the purpose of this guide is so you can tell yourself that you have installed Arch Linux once (assuming you haven't)
 
+Also, **DO NOT** use this guide to install Arch in a bare metal machine, as mentioned before, I have curated it specifically for VMM, which means I deliberately not included commands that, if installed in a real computer, would result in your install simply not booting up.
+
+
  > [!NOTE] 
  > **Sources Used**
  > 
