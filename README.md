@@ -131,7 +131,7 @@ Once your VM is on, you'll see a bootloader, select *Arch install medium* and pr
 
 #### ``your_username@arch``
 ---
-- Once you log in, there is one crucial step (it is optional). 
+- Once you log in, there is one last crucial step (it is optional). 
 	- Open the terminal by either pressing ``Ctrl + Alt + T`` or by clicking on the dock icon, then, type in ``pacman -S fastfetch``, proceed any prompts that may appear with ``Enter`` and confirm with Y.
 	- Type in clear on the terminal to get rid of the clutter, then, type in fastfetch.
 	- You may now screenshot, or ponder, the very thing **you** have just created, following this oversimplified guide does not take any merit what you've done.
