@@ -8,7 +8,9 @@ Essentially, the purpose of this guide is so you can tell yourself that you have
 
  > [!NOTE] 
  > **Sources Used**
+ > 
  > **[EF - Linux Made Simple — Arch Linux Full install on BIOS/MBR with Xfce4 and visual guide](https://www.youtube.com/watch?v=FudOL0-B9Hs)**
+ > 
  > **[Arch Linux Wiki — Installation Guide](https://wiki.archlinux.org/title/Installation_guide)**
  
 
