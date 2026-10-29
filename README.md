@@ -100,7 +100,7 @@ Once your VM is on, you'll see a bootloader, select *Arch install medium* and pr
 #### ``root@archiso # ``
 ---
 - umount -a
-	- Do not mind the error messages, they are expected.
+	- Do not mind the error messages warning the disc is still in use, they are expected and benign.
 - reboot
 
 ## 3. Post-installation
